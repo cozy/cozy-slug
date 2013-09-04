@@ -10,20 +10,18 @@
       "url": "https://github.com/mycozycloud/cozy-slug/blob/master/LICENSE"
     }
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/mycozycloud/cozy-slug/",
   "bugs": {
     "url": "https://github.com/mycozycloud/cozy-slug/issues"
   },
   "author": "Cozy Cloud <contact@cozycloud.cc> (http://cozycloud.cc)",
-  "contributors": [
-  ],
+  "contributors": [],
   "engines": {
     "node": "*"
   },
   "main": "./main.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "coffee-script": "*",
     "chai": "*",
