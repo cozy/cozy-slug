@@ -30,8 +30,8 @@
     "mocha": "*"
   },
   "scripts": {
-    "prepublish": "cake build",
-    "test": "cake tests"
+    "prepublish": "coffee -c main.coffee",
+    "test": "mocha tests.coffee --reporter spec --compilers coffee:coffee-script --colors"
   },
   "repository": {
     "type": "git",
