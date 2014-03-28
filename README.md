@@ -12,13 +12,6 @@ Add it to your package.json file or run in your project folder:
 
     npm install cozy-slug --save 
 
-## Cozy tutorial
-
-Code sources for the 
-"[Hack your Cozy App](http://cozy.io/hack/getting-started/)" Tutorial. 
-
-You can see code source of each tutorial steps via this repository branches.
-
 
 ## What is Cozy?
 
