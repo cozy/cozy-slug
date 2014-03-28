@@ -2,7 +2,8 @@
   "name": "cozy-slug",
   "description": "Slugify your strings",
   "keywords": [
-    "slug"
+    "slug",
+    "string"
   ],
   "licenses": [
     {
